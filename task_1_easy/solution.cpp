@@ -36,7 +36,7 @@ public:
 
 int main() {
 	Solution solution;
-	// Тестовые запуски
+	// пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	std::cout << std::boolalpha;
 	std::cout << "Test '()': " << solution.isValid("()") << "\n";
 	std::cout << "Test '()[]{}': " << solution.isValid("()[]{}") << "\n";
